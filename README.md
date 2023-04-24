@@ -1,6 +1,6 @@
 # Hi there 👋
 
-:love_you_gesture: I am a **Full-Stack Flutter** developer, who is working with Flutter SDK to build cross-platform UIs and backend using **Node.js**.  
+:love_you_gesture: I am a **Full-Stack Flutter** developer, who is working with Flutter SDK to build cross-platform UIs and backend using **Node.js** and **Firebase**.  
   
   
 :heart: I am passionate about the art of transforming the design into pixel-perfect code. Also, diving deep into the language pool of Dart and JavaScript.<br>
